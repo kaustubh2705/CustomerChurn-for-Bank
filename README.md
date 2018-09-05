@@ -1,7 +1,7 @@
 # CustomerChurn-for-Bank
 # Information
 
-Udemy - Deep Learning A-Z
+
 
 Predict if a customer leave the bank with Scikit-learn, keras and tensorflow:  
 Churn rate of a bank: the annual percentage rate at which customers stop subscribing to a service.  
